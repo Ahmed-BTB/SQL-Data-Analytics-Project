@@ -1,3 +1,4 @@
+		 ---- Exploratory Data Analysis (EDA) project ----
 /*
 ===============================================================================
 -- 1 -- Database Exploration
