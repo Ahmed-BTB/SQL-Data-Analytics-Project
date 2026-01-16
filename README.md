@@ -48,17 +48,7 @@ Let’s stay in touch! Connect with me on the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/ahmed-bettaieb-926b0a356/)  
 - [GitHub](https://github.com/Ahmed-BTB)  
 
----
 
-## ✅ Related Projects
-- SQL Full Course: [Course Link] | [Download Materials] | [Git Repo]  
-- Tableau Full Course: [Course Link] | [Download Materials] | [Public]  
-- SQL Data Warehouse Project: [Course Link] | [Download Materials] | [Git Repo]  
-- SQL Exploratory Data Analysis Project: [Course Link] | [Download Materials] | [Git Repo]  
-- SQL Advanced Data Analysis Project: [Course Link] | [Download Materials] | [Git Repo]  
-- Tableau Sales Project: [Course Link] | [Download Materials] | [Public]  
-- Tableau HR Project: [Course Link] | [Download Materials] | [Public]  
-- ChatGPT Project: [Course Link] | [Download Materials]  
 
 ---
 
